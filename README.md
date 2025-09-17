@@ -1,1 +1,1 @@
-# DS_Algo
+# Map link to the plan - [Click here](/Map-plan.md)
