@@ -1,4 +1,4 @@
-# Data Structures & Algorithms (DS_Algo)
+# Ds Algo Practice
 
 A comprehensive practice repository for mastering Data Structures and Algorithms through Jupyter Notebooks and problem-solving logs.
 
